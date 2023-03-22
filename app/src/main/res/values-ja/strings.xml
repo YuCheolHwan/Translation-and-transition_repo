@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv_message1">Messengerで携帯電話の連絡先にいる人を見つけます。</string>
+    <string name="tv_message2">連絡先をアップロードし続けると、FacebookやMessengerでリンクされた連絡先を推薦し、会員と他のユーザーにより関連性の高い情報を表示します。</string>
+    <string name="tv_message3">設定</string>
+    <string name="tv_message4">後で行う</string>
+</resources>

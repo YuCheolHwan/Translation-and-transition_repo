@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv_message1">Messenger 에서 휴대폰 연락처에 있는 사람 들을 찾아보세요.</string>
+    <string name="tv_message2">연락처를 계속 업로드하면 Facebook 및 Messenger에서 연결된 연락처를 추천하고 회원님과 다른 사람들에게 더욱 관련성 높은 정보를 표시합니다.</string>
+    <string name="tv_message3">설정</string>
+    <string name="tv_message4">나중에 하기</string>
+
+</resources>
